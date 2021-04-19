@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhishek Gupta
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning sass
 - 📫 Reach me at abhi1997g@gmail.com
 
 <!---
